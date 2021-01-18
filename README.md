@@ -10,5 +10,4 @@ It wraps the efficient numerical computation libraries Theano and TensorFlow and
     Compile Keras Model.
     Fit Keras Model.
     Evaluate Keras Model.
-    Tie It All Together.
     Make Predictions
